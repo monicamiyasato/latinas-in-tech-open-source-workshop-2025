@@ -30,6 +30,7 @@ Monica Miyasato: Loved seeing so many powerful Latinas taking up space in tech! 
 Feel free to add your own reason below!<br>
 Example:<br>
 Monica: To lift my comunidad and build visible, inclusive tech spaces. <br>
+Rocio: hola!
 [Your Name]: [Your Reason]
 
 ---
