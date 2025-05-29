@@ -13,6 +13,7 @@ You’re invited to contribute by adding your name and favorite tech tool below.
 Click the `CONTRIBUTING.md` file above and follow the instructions to contribute to the two prompts below:
 - Latinas in Tech Shoutouts
 - Why I'm Excited About Open Source
+- Ruby Sherman - because monica told me to be
 
 
 ---
