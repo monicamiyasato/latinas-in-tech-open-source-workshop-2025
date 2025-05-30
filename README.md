@@ -18,6 +18,7 @@ Click the `CONTRIBUTING.md` file above and follow the instructions to contribute
 ---
 ## :speech_balloon: Latinas in Tech Shoutouts
 Add your name and one thing you're loving about the Latinas in Tech Summit! <br>
+gaby - There have been lots of a amazing speakers!!! 
 It could be your favorite session, a speaker who inspired you, someone you met, or just how you're feeling being in this comunidad. :sparkling_heart:<br>
 Example:<br>
 Monica Miyasato: Loved seeing so many powerful Latinas taking up space in tech! <br>
