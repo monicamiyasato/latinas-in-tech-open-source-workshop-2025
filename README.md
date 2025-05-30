@@ -21,7 +21,8 @@ Add your name and one thing you're loving about the Latinas in Tech Summit! <br>
 It could be your favorite session, a speaker who inspired you, someone you met, or just how you're feeling being in this comunidad. :sparkling_heart:<br>
 Example:<br>
 Monica Miyasato: Loved seeing so many powerful Latinas taking up space in tech! <br>
-[Your Name]: [Your Shoutout]
+[Your Name]: [Your Shoutout]<br>
+Jackie Rivas: Love being surrounded by people in a professional setting that look like me! 
 
 ---
 ## :speech_balloon: Why I’m Excited About Open Source
